@@ -1,0 +1,4 @@
+#Thu Feb 08 15:43:43 NPT 2018
+base.0=/home/flowing/AndroidStudioProjects/colorseperator/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
